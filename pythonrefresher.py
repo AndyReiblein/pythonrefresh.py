@@ -1,5 +1,8 @@
-age = 23
-
 name = "Andrew"
 
-print ("Hello my name is {} and i am 23 years old".format(name))
+age = '23'
+
+sentence = ("Hi my name is {} and I am {} years old".format(name,age))
+
+print(sentence)
+
